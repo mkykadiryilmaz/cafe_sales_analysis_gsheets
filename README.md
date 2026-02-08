@@ -24,8 +24,8 @@ Veri kümesi şunları içerir:
 
 ## Notes
 
-Google Sheets Dashboard: "https://docs.google.com/spreadsheets/d/165eFuGujDfYF2tp3VIETb2LNNiEp65P5L8pn-nZh2-o/edit?gid=871986441#gid=871986441"
-![Dashboard](dashboard.png)
+Google Sheets Dashboard: 
+![Dashboard](dashboard.png) (https://docs.google.com/spreadsheets/d/165eFuGujDfYF2tp3VIETb2LNNiEp65P5L8pn-nZh2-o/edit?gid=871986441#gid=871986441)
 
 
 
