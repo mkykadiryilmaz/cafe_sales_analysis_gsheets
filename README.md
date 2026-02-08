@@ -1,4 +1,5 @@
 # cafe_sales_analysis_gsheets
+
 Beginner level data analysis project using Google Sheets
 
 ##Project Overview
@@ -8,6 +9,7 @@ Bu proje, Kaggle'dan elde edilen kafe satış verilerini analiz etmektedir. Ama�
 ##Dataset
 
 Veri kümesi şunları içerir:
+
 - Transaction ID
 - Item
 - Quantity
@@ -15,11 +17,13 @@ Veri kümesi şunları içerir:
 - Total Spent
 - Transaction Date
 
-##Veri Hazırlığı
+##Data Preparation
+
 - Veri temizleme ve doğrulama işlemleri gerçekleştirildi
 - Hesaplanan ve kaydedilen toplam harcama arasında veri kalitesi kontrolü yapıldı
 
-##Not
+##Notes
+
 Google Sheets Dashboard: "https://docs.google.com/spreadsheets/d/165eFuGujDfYF2tp3VIETb2LNNiEp65P5L8pn-nZh2-o/edit?gid=871986441#gid=871986441"
 ![Dashboard](dashboard.png)
 
